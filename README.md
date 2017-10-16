@@ -1,4 +1,4 @@
-# JavaScript ES2015 solutions to Codility sample problems
+# JavaScript ES2015 solutions to Codility lessons
 These are solutions and associated unit tests for the questions in Codility using JavaScript ES2015 features. These solutions
 specifically take advantage of ES2015 enhancements to the JavaScript language
 and require the latest Node.js (>= v6.0.0) to work properly. As not all ES2015
